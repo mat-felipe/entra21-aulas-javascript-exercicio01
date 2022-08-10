@@ -2,20 +2,20 @@
 Listas de exercicios - Para revisar os conceitos vistos no módulo de javascript
 
 Variaveis
-Crie uma variável para cada tipo existente com let ou var
-string
-number
-boolean
-array
-object json
-function
-Exiba em log o valor de cada variável e o tipo da variável com typeof(variável)
-Para cada variável faça um IF que tome uma decisão e também no ELSE
-Para uma variável string e number, faça um switch que tome uma decisão
-Para uma variável do tipo array, faça as repetições possíveis
-for com índice
-foreach
-Se cada exercício anterior foi feito de forma unica no arquivo JS, separe-os em funções especificas
+-Crie uma variável para cada tipo existente com let ou var
+-string
+-number
+-boolean
+-array
+-object json
+-function
+-Exiba em log o valor de cada variável e o tipo da variável com typeof(variável)
+-Para cada variável faça um IF que tome uma decisão e também no ELSE
+-Para uma variável string e number, faça um switch que tome uma decisão
+-Para uma variável do tipo array, faça as repetições possíveis
+-for com índice
+-foreach
+-Se cada exercício anterior foi feito de forma unica no arquivo JS, separe-os em funções especificas
 
 Manipular html com Javascript
 Com javascript puro (É importante saber o básico)
